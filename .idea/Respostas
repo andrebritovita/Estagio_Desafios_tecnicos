@@ -31,3 +31,5 @@ Resposta:
 4.1 - Lâmpada "A" está apagada. Significa que o interruptor 3 a controla.
 4.2 - Lâmpada "B" está acesa. Significa que o interruptor 2 a controla.
 4.3 - Lâmpada "C" está acesa. Significa que o interruptor 1 a controla.
+
+Desta forma, através dessas duas idas às salas, é possível determinar qual interruptor controla qual lâmpada. 
