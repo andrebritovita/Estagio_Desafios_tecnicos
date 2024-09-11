@@ -1,0 +1,33 @@
+Questão 01: Informe um número entre 0 e 4.181:
+O número informado foi "13".
+Resposta: O número 13 pertence à sequência de Fibonacci.
+
+
+Questão 02: Nome: André Brito Vita.
+Resposta: A letra 'a' ou 'A' ocorre 2 vezes na string.
+
+
+Questão 03:
+Resposta: O valor da variável SOMA é: 77
+
+
+Questão 04:
+a) 9
+b) 128
+c) 49
+d) 100
+e) 13
+f) 20
+
+Questão 05:
+Resposta:
+1) Posso ligar primeiro os interruptores 1 e 2 por um tempo entre 5 a 10 minutos;
+2) Em seguida, desligo o interruptor 2 e ligo o interruptor 3 e vou pela primeira vez até uma das salas de lâmpadas;
+3) Identifico uma das seguintes possibilidades:
+3.1 - Uma lâmpada pode estar acesa (A). Se a lâmpada "A" estiver acesa pode ser que o interruptor 3 a controle.
+3.2 - Uma lâmpada pode estar morna (B). Se a lâmpada "B" estiver morna significa que o interruptor 2 a controla.
+3.3 - Uma lâmpada pode estar fria (C). Se a lâmpada "C" estiver fria pode ser que o interruptor 1 a controle.
+4) Vou agora a uma segunda sala de lâmpadas e identifico uma das seguintes possibilidades:
+4.1 - Lâmpada "A" está apagada. Significa que o interruptor 3 a controla.
+4.2 - Lâmpada "B" está acesa. Significa que o interruptor 2 a controla.
+4.3 - Lâmpada "C" está acesa. Significa que o interruptor 1 a controla.
